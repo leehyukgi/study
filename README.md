@@ -9,6 +9,10 @@ study
   ### SSO(Single Sign-On; 통합 인증)
   - 한 번의 인증 과정으로 여러 컴퓨터 상의 자원을 이용 가능하게 하는 인증 기능
 
+  ### Domain vs Workgroup
+  - Domain : AD에서 계정을 발급받아서 사용
+  - Workgroup : 개개의 컴퓨터에서 계정을 관리
+
 ## NFS(Network File System)
 - 원격지 컴퓨터에 있는 파일을 내 컴퓨터 환경에서 이용할 수 있도록 해주는 클라이언트/서버 응용 프로그램
 - 클라이언트/서버 모두 TCP/IP 프로토콜 필요

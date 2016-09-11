@@ -1,11 +1,11 @@
 study
 ======
-* Active Directory
+## Active Directory
 - 네트워크 상으로 분산되어 있는 자원을 중앙 관리자가 통합하여 관리.
 - 더 이상 자신의 pc에 모든 정보를 보관할 필요가 없음
 - 자신의 아이디로 로그인만 하면 타인의 PC가 자신의 PC환경과 마찬가지로 변경
 - 어디서든 전체 자원을 편리하게 사용 가능
 
-* NFS(Network File System)
+## NFS(Network File System)
 - 원격지 컴퓨터에 있는 파일을 내 컴퓨터 환경에서 이용할 수 있도록 해주는 클라이언트/서버 응용 프로그램
 

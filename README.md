@@ -24,8 +24,8 @@ study
 - linux와 windows간에 파일 및 프린터를 공유할 수 있게 해주는 프로그램
 - SMB(Server Message Block)/CIFS(Common Internet File System) 프로토콜 이용
 	
-### SMB(Server Message Block)
-- windows 시스템이 다른 시스템의 디스크나 프린터와 같은 자원을 공유할 수 있도록 만든 프로토콜
+	### SMB(Server Message Block)
+	- windows 시스템이 다른 시스템의 디스크나 프린터와 같은 자원을 공유할 수 있도록 만든 프로토콜
 
-### CIFS(Common Internet File System)
-- 네트워크를 위한 SMB의 확장버전, windows와 unix 환경을 동시 지원하는 인터넷 표준 파일 규약 프로토콜
+	### CIFS(Common Internet File System)
+	- 네트워크를 위한 SMB의 확장버전, windows와 unix 환경을 동시 지원하는 인터넷 표준 파일 규약 프로토콜

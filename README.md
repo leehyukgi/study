@@ -25,4 +25,3 @@ study
 
 ### CIFS(Common Internet File System)
 - 네트워크를 위한 SMB의 확장버전, windows와 unix 환경을 동시 지원하는 인터넷 표준 파일 규약 프로토콜
-

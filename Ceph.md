@@ -9,3 +9,7 @@
 
 ###(disk)striping
 - 논리적으로 연속된 data segments를 physical devices에 round robin으로 나뉘어 기록
+
+###POSIX(Portable Operating System Interface)
+- Unix 운영체계에 기반을 둔 표준 시스템 인터페이스
+- 표준 shell, utility가 하나의 예 

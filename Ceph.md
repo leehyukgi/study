@@ -12,4 +12,9 @@
 
 ###POSIX(Portable Operating System Interface)
 - Unix 운영체계에 기반을 둔 표준 시스템 인터페이스
-- 표준 shell, utility가 하나의 예 
+- 표준 shell, utility가 하나의 예
+
+###namespace
+- 다양한 종류의 objects로 구성된 symbols이 집합
+- objects가 name에 의해 참조
+- file systems는 files에 name을 할당한 namespace
